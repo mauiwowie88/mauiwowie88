@@ -7,7 +7,9 @@
 
 - 🌱 Currently learning **Angular and Python**
 
-<h3 align="left">Connect with me:   <a href="https://linkedin.com/in/mauricio-garza-guzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricio-garza-guzman" height="30" width="40" /></a></h3>
+<h3 align="left">Connect with me:   <a href="https://linkedin.com/in/mauricio-garza-guzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricio-garza-guzman" height="30" width="40" /></a>
+  
+  
 
 - 📫 How to reach me **maugarza96@gmail.com**
 
