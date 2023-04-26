@@ -12,6 +12,8 @@
 
 - 🌱 Currently learning **Angular and Python**
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="200" height="150" />
+
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a> 
