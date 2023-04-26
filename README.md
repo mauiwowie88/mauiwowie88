@@ -1,21 +1,16 @@
 <!-- [![MasterHead](https://camo.githubusercontent.com/0b5f431a318eb824e40b630d869b6a8629d4c86eeb84910b72e15e30ce4e482f/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)](https://www.linkedin.com/in/mauricio-garza-guzman/) -->
-<h1 align="center">Hey there, I'm Maurico Garza 👋</h1>
-<h3 align="center">A passionate full-stack developer from San Francisco.</h3>
-<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> -->
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindychau11/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maugarza96@gmail.com) 
+[![Resume](https://img.shields.io/badge/resume-%230077B5.svg?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/mauiwowie88/mauiwowie88/files/11302622/Mauricio.Garza.-.Resume.pdf)
+<h1 align="left">Hey there, I'm Maurico Garza 👋</h1>
+<h3 align="left">A passionate full-stack developer from San Francisco.</h3>
+
+  
 
 - 🧑🏻‍💻 Currently working on [StrAPI](https://github.com/oslabs-beta/strapi)
 
 - 🌱 Currently learning **Angular and Python**
-
-<h3 align="left">Connect with me:   <a href="https://linkedin.com/in/mauricio-garza-guzman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricio-garza-guzman" height="30" width="40" /></a>
-  
-  
-
-- 📫 How to reach me **maugarza96@gmail.com**
-
-- 📄 My resume
-[Mauricio Garza - Resume.pdf](https://github.com/mauiwowie88/mauiwowie88/files/11302622/Mauricio.Garza.-.Resume.pdf)
-
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
