@@ -8,7 +8,7 @@
 
   
 
-🧑🏻‍💻 Currently working on [StrAPI](https://github.com/oslabs-beta/strapi)
+🧑🏻‍💻 Recently started [StrAPI](https://github.com/oslabs-beta/strapi)
 
 🌱 Currently learning **Angular and Python**
 
