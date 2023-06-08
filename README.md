@@ -2,11 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindychau11/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maugarza96@gmail.com) 
-[![Resume](https://img.shields.io/badge/resume-%230077B5.svg?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/mauiwowie88/mauiwowie88/files/11302622/Mauricio.Garza.-.Resume.pdf)
+[![Resume](https://img.shields.io/badge/resume-%230077B5.svg?style=for-the-badge&logo=resume&logoColor=white)](https://github.com/mauiwowie88/mauiwowie88/files/11687445/Grey.White.Clean.Cv.Resume.1.pdf)
 <h1 align="left">Hey there, I'm Maurico Garza 👋</h1>
 <h3 align="left">A passionate full-stack developer from San Francisco.</h3>
-
-  
 
 🧑🏻‍💻 Recently started [StrAPI](https://github.com/oslabs-beta/strapi)
 
