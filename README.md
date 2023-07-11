@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-garza-guzman/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maugarza96@gmail.com) 
-[![Resume](https://github.com/mauiwowie88/mauiwowie88/files/12009429/Mauricio-G.pdf)
+[![Resume](https://img.shields.io/badge/resume-%230077B5.svg?style=for-the-badge&logo=website&logoColor=white)](https://github.com/mauiwowie88/mauiwowie88/files/12009429/Mauricio-G.pdf)
 [![Website](https://img.shields.io/badge/website-D14836?style=for-the-badge&logo=website&logoColor=white)](https://mauiwowie88.github.io/)
 <h1 align="left">Hey there, I'm Maurico Garza 👋</h1>
 <h3 align="left">A passionate full-stack developer from San Francisco.</h3>
