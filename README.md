@@ -6,6 +6,8 @@
 [![Website](https://img.shields.io/badge/website-D14836?style=for-the-badge&logo=website&logoColor=white)](https://mauiwowie88.github.io/)
 <h1 align="left">Hey there, I'm Maurico Garza 👋</h1>
 <h3 align="left">A passionate full-stack developer from San Francisco.</h3>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="200" height="150" />
+
 
 🧑🏻‍💻 Recently started [StrAPI](https://github.com/oslabs-beta/strapi)
 
