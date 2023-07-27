@@ -11,7 +11,6 @@
 
 🌱 Currently learning **Python**
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="200" height="150" />
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
