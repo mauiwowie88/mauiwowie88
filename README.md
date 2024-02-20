@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey there, I'm Maurico Garza 👋</h1>
+<h1 align="left">Hey there! 👋</h1>
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="200" height="150" />
 
